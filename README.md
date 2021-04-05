@@ -1,10 +1,12 @@
-(Axur)Teste Técnico: Engineering Intern (JAVA SE 8)
+<h1 align="center">(Axur)Teste Técnico: Engineering Intern (JAVA SE 8)</h1>
 
-🔗 JAVA SE 8
+<h1 align="center">🔗 JAVA SE 8</h1>
 
-👽 API para verificar a segurança de URLs 👽
+<p align="center">💻🔓 API para verificar a segurança de URLs 🔒💻</p>  
 
-👍 Concluído 👍
+<h4 align="center"> 
+	👍 Concluído 👍
+</h4>
 
 ## 🧙‍ Features
 
