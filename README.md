@@ -11,7 +11,7 @@
 ## 🧙‍ Features
 
 - [x] Verificação de HTML de uma URL
-- [x] Análise de palavras suspeitas ["black friday", "promoção", "senha] e as suas variações.
+- [x] Análise de palavras suspeitas ["black friday", "promoção", "senha"] e as suas variações.
 
 ## 👉 Pré-requisitos
 
