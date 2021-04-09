@@ -20,19 +20,19 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ## 🏃 Rodando o Código
 
-# Compilar o arquivo java (AxurChallenge.java)
+Compilar o arquivo java (AxurChallenge.java)
 $ javac AxurChallenge.java 
 
-# Executar a aplicação com o argumento (URL)
+Executar a aplicação com o argumento (URL)
 $ java AxurChallenge.java URL
 
 ## ✅ Testando o Código
 
-# Executar a aplicação com http://www.google.com/ como argumento
+Executar a aplicação com http://www.google.com/ como argumento
 $ java AxurChallenge.java http://www.google.com/
 > safe
 
-# Executar a aplicação com https://www.blackfriday.com.br/ como argumento
+Executar a aplicação com https://www.blackfriday.com.br/ como argumento
 $ java AxurChallenge.java https://www.blackfriday.com.br/
 > suspicious
 
